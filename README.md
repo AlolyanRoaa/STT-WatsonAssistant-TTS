@@ -20,7 +20,7 @@ Note: PyCharm IDE was used while implementing this project.
 ## Application Workflow
 
 
-![]("Workflow of STT-Watson Assistant-TTS application")
+![workflow](https://github.com/AlolyanRoaa/STT-WatsonAssistant-TTS/blob/main/images/workflow.png "Workflow of STT-Watson Assistant-TTS application")
 
 
 User will start speaking to the system, the system will catch what the user says and change it to text form by using the Speech to Text service provided by IBM Watson, ​Then that Text will be an input to the chatbot that we created previously and assigned our assistant with it.
@@ -91,7 +91,7 @@ now save the response to text file so we can apply TTS on it.
 ## Demo
 
 
-![]()
+![Demo](https://github.com/AlolyanRoaa/STT-WatsonAssistant-TTS/blob/main/images/DemoPic.PNG)
 
 
 
