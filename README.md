@@ -91,8 +91,7 @@ now save the response to text file so we can apply TTS on it.
 ## Demo
 
 
-![Demo](https://github.com/AlolyanRoaa/STT-WatsonAssistant-TTS/blob/main/images/DemoPic.PNG)
-
+<img src="https://github.com/AlolyanRoaa/STT-WatsonAssistant-TTS/blob/main/images/DemoPic.PNG" width="500">
 
 
 https://user-images.githubusercontent.com/85321139/128555782-f2ef7cbc-7153-4cc1-a336-fa79b962773e.mp4
