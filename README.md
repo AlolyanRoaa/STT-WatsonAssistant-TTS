@@ -67,7 +67,7 @@ then get the response from the assistant and convert it and store it to MassageT
 
 ```bash 
      response = assistant.message(
-        "4677e28f-5d7b-4134-b19d-ee0455e93ad9",
+        "{assistant_id}",
         session_id,
         input={'text': transcript},
     ).get_result()
